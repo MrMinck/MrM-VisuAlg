@@ -1,0 +1,26 @@
+# MrM-VisuAlg
+SOMENTE PARA CÓDIGOS FEITOS NO VISUALG.
+
+
+algoritmo "Primeiro Programa"
+
+var
+  nome: caractere
+
+inicio
+
+  escreval("Digite seu nome: ")
+  leia(nome)
+  escreva("Olá, ", nome, "!")
+
+fimalgoritmo
+
+
+
+algoritmo "Hello World"
+
+inicio
+
+  escreva("Hello World",)
+
+fimalgoritmo
